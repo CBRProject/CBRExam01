@@ -106,26 +106,4 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>Classes</name>
-			<type>2</type>
-			<location>/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/Classes</location>
-		</link>
-		<link>
-			<name>Resources</name>
-			<type>2</type>
-			<location>/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/Resources</location>
-		</link>
-		<link>
-			<name>cocos2dx-src</name>
-			<type>2</type>
-			<location>/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/cocos2dx/platform/android/java/src</location>
-		</link>
-		<link>
-			<name>scripting</name>
-			<type>2</type>
-			<locationURI>COCOS2DX/scripting</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>

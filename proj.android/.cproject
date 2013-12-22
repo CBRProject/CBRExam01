@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?fileVersion 4.0.0?>
-
-<cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
 	<storageModule moduleId="org.eclipse.cdt.core.settings">
 		<cconfiguration id="0.756827735">
 			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="0.756827735" moduleId="org.eclipse.cdt.core.settings" name="Default">
@@ -40,6 +38,17 @@
 									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Util/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/libs/armeabi-v7a/include"/>
 									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Util/android-ndk/platforms/android-8/arch-arm/usr/include"/>
 									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Util/android-ndk/sources/cxx-stl/stlport/stlport"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/cocos2dx/platform"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/cocos2dx/kazmath"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/Classes"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/cocos2dx"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/cocos2dx/include"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/external"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/extensions"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/CocosDenshion"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/CocosDenshion/android"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/cocos2dx/platform/third_party"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/cocos2dx/platform/android"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1267721019" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="COCOS2DX_ROOT=${ProjDirPath}/../../../"/>
@@ -50,6 +59,8 @@
 								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.898748423" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
 									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/proj.android/jni"/>
 									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Util/android-ndk/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/lib/gcc/arm-linux-androideabi/4.4.3/include"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/cocos2dx"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/cocos2dx/include"/>
 									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Util/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include"/>
 									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Util/android-ndk/sources/cxx-stl/system/include"/>
 									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Util/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/libs/armeabi-v7a/include"/>
@@ -83,6 +94,17 @@
 									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Util/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/libs/armeabi-v7a/include"/>
 									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Util/android-ndk/platforms/android-8/arch-arm/usr/include"/>
 									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Util/android-ndk/sources/cxx-stl/stlport/stlport"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/cocos2dx/platform"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/cocos2dx/kazmath"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/Classes"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/cocos2dx"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/cocos2dx/include"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/external"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/extensions"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/CocosDenshion"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/CocosDenshion/android"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/cocos2dx/platform/third_party"/>
+									<listOptionValue builtIn="false" value="/Users/macbookpro/CBR/Project/CBRProject/CBRExam01/libs/cocos2dx/platform/android"/>
 								</option>
 								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1267721019" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="COCOS2DX_ROOT=${ProjDirPath}/../../../"/>
@@ -92,10 +114,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Resources|scripting|extensions|cocos2dx|Classes" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="scripting"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Classes"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Resources"/>
+						<entry excluding="extensions|scripting|cocos2dx|Resources|Classes" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
