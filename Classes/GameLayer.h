@@ -2,8 +2,8 @@
 #define __GAMESCENE_H__
 
 #include "cocos2d.h"
-#include "Terrain.h"
-#include "Player.h"
+#include "victorianrushhour/Terrain.h"
+#include "victorianrushhour/Player.h"
 
 USING_NS_CC;
 
@@ -17,10 +17,8 @@ typedef enum {
 
 class GameLayer : public cocos2d::CCLayer
 {
-    
     Terrain * _terrain;
     Player * _player;
-    
     CCSpriteBatchNode * _gameBatchNode;
     
     CCSize _screenSize;

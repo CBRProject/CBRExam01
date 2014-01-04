@@ -73,20 +73,21 @@ void GameLayer::ccTouchesEnded(CCSet* pTouches, CCEvent* event) {
 
 void GameLayer::createGameScreen () {
     
-    CCSprite * quickSprite = CCSprite::create("blank.png");
-    quickSprite->setTextureRect(CCRectMake(0, 0, 100, 100));
-    quickSprite->setColor(ccc3(255,255,255));
+//    CCSprite * quickSprite = CCSprite::create("blank.png");
+//    quickSprite->setTextureRect(CCRectMake(0, 0, 100, 100));
+//    quickSprite->setColor(ccc3(255,255,255));
+//
+//
+//    quickSprite->setPosition(ccp(_screenSize.width * 0.5, _screenSize.height * 0.5));
+//    this->addChild(quickSprite);
     
-    quickSprite->setPosition(ccp(_screenSize.width * 0.5, _screenSize.height * 0.5));
-    this->addChild(quickSprite);
-    
-    /*_gameBatchNode = CCSpriteBatchNode::create("blank.png", 200);
+    _gameBatchNode = CCSpriteBatchNode::create("blank.png", 200);
     this->addChild(_gameBatchNode, kMiddleground);
     
     _terrain = Terrain::create();
     _gameBatchNode->addChild(_terrain, kMiddleground);
     
     _player = Player::create();
-    _gameBatchNode->addChild(_player, kBackground);*/
+    _gameBatchNode->addChild(_player, kBackground);
     
 }
